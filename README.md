@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Each team of 5 students has to produce a simple selector or/and orientor device to select the appropriate bottle cap sizes and oriented them properly (with the screw side on one side).
+Each team of 5 students has to produce a simple selector or/and orientor device to select the appropriate bottle cap sizes and oriented them properly (with the screw side on one side). I responsible for designing prototype CAD model and modify the final CAD model. I assist in testing and writing report.
 <br />
 
 
